@@ -1,0 +1,4 @@
+com\task\SpringbootTask\repository\TaskRepository.class
+com\task\SpringbootTask\model\Task.class
+com\task\SpringbootTask\controller\TaskController.class
+com\task\SpringbootTask\SpringbootTaskApplication.class
